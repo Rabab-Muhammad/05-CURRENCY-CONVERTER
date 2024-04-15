@@ -15,6 +15,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@ra5243/05-currency-converter": "^1.0.1",
     "inquirer": "^9.2.18"
   },
   "devDependencies": {
