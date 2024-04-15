@@ -1,6 +1,6 @@
 {
   "name": "@ra5243/05-currency-converter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a simple-currency-converter",
   "main": "index.js",
   "type": "module",
